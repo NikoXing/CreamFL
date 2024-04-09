@@ -1,5 +1,7 @@
 */__pycache__/*
+*.pyc
 *.sh
 .vscode/
 wandb/
 *.log
+data/
